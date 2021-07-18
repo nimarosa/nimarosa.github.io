@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I mainly work on my own business projects but i'm open to exiting proposals.
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://www.nimarosa.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.nimarosa.dev" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
